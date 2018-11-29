@@ -1,0 +1,47 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Ball} {et~al.}(2018){Ball}, {Sironi}, \& {{\"O}zel}}]{ball2018}
+{Ball}, D., {Sironi}, L., \& {{\"O}zel}, F. 2018, \apj, 862, 80
+
+\bibitem[{{Buneman}(1993)}]{buneman93}
+{Buneman}, O. 1993, {in``Computer Space Plasma Physics'', Terra Scientific,
+  Tokyo, 67}
+
+\bibitem[{{Dahlin} {et~al.}(2014){Dahlin}, {Drake}, \& {Swisdak}}]{dahlin2014}
+{Dahlin}, J.~T., {Drake}, J.~F., \& {Swisdak}, M. 2014, Physics of Plasmas, 21,
+  092304
+
+\bibitem[{{Guo} {et~al.}(2015){Guo}, {Liu}, {Daughton}, \& {Li}}]{guo2015}
+{Guo}, F., {Liu}, Y.-H., {Daughton}, W., \& {Li}, H. 2015, \apj, 806, 167
+
+\bibitem[{{Haggerty} {et~al.}(2017){Haggerty}, {Parashar}, {Matthaeus}, {Shay},
+  {Yang}, {Wan}, {Wu}, \& {Servidio}}]{haggerty2017}
+{Haggerty}, C.~C., {Parashar}, T.~N., {Matthaeus}, W.~H., {et~al.} 2017,
+  Physics of Plasmas, 24, 102308
+
+\bibitem[{{Li} {et~al.}(2017){Li}, {Guo}, {Li}, \& {Li}}]{li_guo_2017}
+{Li}, X., {Guo}, F., {Li}, H., \& {Li}, G. 2017, \apj, 843, 21
+
+\bibitem[{{Nalewajko} {et~al.}(2015){Nalewajko}, {Uzdensky}, {Cerutti},
+  {Werner}, \& {Begelman}}]{nalewajko2015}
+{Nalewajko}, K., {Uzdensky}, D.~A., {Cerutti}, B., {Werner}, G.~R., \&
+  {Begelman}, M.~C. 2015, \apj, 815, 101
+
+\bibitem[{{Servidio} {et~al.}(2009){Servidio}, {Matthaeus}, {Shay}, {Cassak},
+  \& {Dmitruk}}]{servidio2009}
+{Servidio}, S., {Matthaeus}, W.~H., {Shay}, M.~A., {Cassak}, P.~A., \&
+  {Dmitruk}, P. 2009, \prl, 102, 115003
+
+\bibitem[{{Spitkovsky}(2005)}]{spitkovsky05}
+{Spitkovsky}, A. 2005, in AIP Conf. Ser., Vol. 801, Astrophysical Sources of
+  High Energy Particles and Radiation, ed. {T.~Bulik, B.~Rudak, \&
+  G.~Madejski}, 345
+
+\bibitem[{{Wang} {et~al.}(2016){Wang}, {Lu}, {Huang}, \& {Wang}}]{wangh2016}
+{Wang}, H., {Lu}, Q., {Huang}, C., \& {Wang}, S. 2016, \apj, 821, 84
+
+\bibitem[{{Werner} \& {Uzdensky}(2017)}]{werner2017}
+{Werner}, G.~R., \& {Uzdensky}, D.~A. 2017, \apj, 843, L27
+
+\end{thebibliography}
